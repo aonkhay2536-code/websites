@@ -1,3 +1,4 @@
+pubg fps120
 # User manual
 
 [[toc]]
